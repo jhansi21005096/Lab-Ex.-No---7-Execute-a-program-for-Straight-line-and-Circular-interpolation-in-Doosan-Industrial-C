@@ -38,8 +38,8 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 ![output](jog.PNG)
 ![output](LoadWorklist.PNG)
 ![output](Program.PNG)
-![ouput](FinalProgramLinear.PNG)
-![ouput](FinalProgramCircular.PNG)
+![output](FinalProgramLinear.PNG)
+![output](FinalProgramCircular.PNG)
 Linear Interpolation
 
 ![output](linearinterpolation.PNG)
