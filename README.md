@@ -35,14 +35,19 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 ### output
 ![output](Entry.PNG)
 ![output](Status.PNG)
-![ouput](jog.PNG)
-![ouput](LoadWorklist.PNG)
+![output](jog.PNG)
+![output](LoadWorklist.PNG)
 ![output](Program.PNG)
 ![ouput](FinalProgramLinear.PNG)
 ![ouput](FinalProgramCircular.PNG)
 Linear Interpolation
+
 ![output](linearinterpolation.PNG)
+
+
 Circular Interpolation
+
+
 ![output](circularinterpolation.PNG)
 ### Results 
 A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
