@@ -35,8 +35,8 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 ### output
 ![output](Entry.PNG)
 ![output](Status.PNG)
-![output](jog.PNG)
-![output](LoadWorklist.PNG)
+![output](Jog.PNG)
+![output](Loadworklist.PNG)
 ![output](Program.PNG)
 ![output](FinalProgramLinear.PNG)
 ![output](FinalProgramCircular.PNG)
